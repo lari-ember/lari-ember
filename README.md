@@ -18,9 +18,6 @@ Adoro por a mão em codigos fontes e desenvolver minhas propias aplicações, se
   <img align="center" alt="lari-ember-Js" height="30" width="41" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <br/>
   <br/>
-  <img align="center" alt="vinichan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <br/><br/>
-  <img align="center" alt="vinichan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <br/><br/>
   <img align="center" alt="vinichan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <br/><br/>
